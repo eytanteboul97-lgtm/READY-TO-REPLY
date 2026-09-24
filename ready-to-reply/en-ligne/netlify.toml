@@ -1,0 +1,4 @@
+# Site statique : aucune commande de build, on publie ce dossier tel quel.
+[build]
+  command = ""
+  publish = "."
